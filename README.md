@@ -19,7 +19,7 @@ This is an extension for the AUTOMATIC1111's (and Vladmandic´s) webui that allo
 
 2. Go to the `Extensions tab` > `Install from URL`.
 
-3. Enter `https://github.com/v8hid/infinite-zoom-automatic1111-webui.git` for the URL and leave the second field empty and wait for it to be installed.
+3. Enter `https://github.com/steinhaug/infinite-zoom-automatic1111-webui.git` for the URL and leave the second field empty and wait for it to be installed.
 > <img width="587" alt="Screenshot" src="https://user-images.githubusercontent.com/62482657/231554653-16484c48-582e-489d-8191-bafc4cccbd3b.png">
 
 4. Go to the Installed tab and press Apply, wait for installation, and restart.
@@ -99,10 +99,13 @@ Length of each outpaint step in second = `Number of frames` $\div$ `Frames per s
 ## Google Colab version
 It works on free colab plan
 
-<a target="_blank" href="https://colab.research.google.com/github/v8hid/infinite-zoom-stable-diffusion/blob/main/infinite_zoom_gradio.ipynb">
+<a target="_blank" href="https://colab.research.google.com/steinhaug/infinite-zoom-automatic1111-webui/blob/main/infinite_zoom_gradio.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-<a target="_blank" href="https://github.com/v8hid/infinite-zoom-stable-diffusion">
+<a target="_blank" href="https://colab.research.google.com/steinhaug/infinite-zoom-automatic1111-webui/blob/main/smooth_infinite_zoom.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+<a target="_blank" href="https://github.com/steinhaug/infinite-zoom-automatic1111-webui">
   <img src="https://img.shields.io/static/v1?label=github&message=repository&color=blue&style=flat&logo=github&logoColor=white" alt="GitHub Repo"/>
 </a>
 
